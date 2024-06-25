@@ -10,9 +10,19 @@
     "name": "Isendur"
     }
   ],
+  "systems": [
+    "dnd5e",
+    "pf2e"
+  ],
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
-  }
+  },
+  "socket": true,
+  "url": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy",
+  "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases/latest/download/module.json",
+  "download": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases/download/v3.00/module.zip",
+  "changelog": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases",
+  "bugs": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/issues"
 }
