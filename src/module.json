@@ -19,6 +19,16 @@
     "minimum": "11",
     "verified": "12"
   },
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/KockaZsokek/assets/kocka_zsokek.jpg"
+    },
+    {
+      "type": "cover",
+      "url": "https://raw.githubusercontent.com/IsendurHUN/KockaZsokek/main/src/assets/kocka_zsokek.jpg"
+    }
+  ],
   "socket": true,
   "url": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy",
   "manifest": "https://github.com/League-of-Foundry-Developers/fvtt-module-lmrtfy/releases/latest/download/module.json",
